@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;servlets.addProducto.java&apos; to &apos;AddProducto.java&apos;&#x0D;&#x0A;- Original project: &apos;15_gestor_pedidos&apos;&#x0D;&#x0A;- Original element: &apos;servlets.addProducto.java&apos;&#x0D;&#x0A;- Renamed element: &apos;servlets.AddProducto.java&apos;" description="Rename compilation unit &apos;addProducto.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;servlets{addProducto.java" name="AddProducto.java" references="false" stamp="1719215692617" version="1.0"/>
+</session>

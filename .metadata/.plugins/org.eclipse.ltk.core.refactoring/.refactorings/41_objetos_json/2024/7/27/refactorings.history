@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;41_objetos_json/public/01_json.html&apos; to &apos;01_manipular_json.html&apos;" description="Rename resource &apos;01_json.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="public/01_json.html" name="01_manipular_json.html" stamp="1719920088476" updateReferences="true"/>
+</session>

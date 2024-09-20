@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://jakarta.ee/xml/ns/jakartaee" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" version="6.0">
+  <display-name>40_libreria_v1</display-name>
+  <welcome-file-list>
+    <welcome-file>inicio.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>AltaLibro</display-name>
+    <servlet-name>AltaLibro</servlet-name>
+    <servlet-class>controller.AltaLibro</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AltaLibro</servlet-name>
+    <url-pattern>/AltaLibro</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>PaginaNueva</display-name>
+    <servlet-name>PaginaNueva</servlet-name>
+    <servlet-class>controller.PaginaNueva</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>PaginaNueva</servlet-name>
+    <url-pattern>/PaginaNueva</url-pattern>
+  </servlet-mapping>
+</web-app>

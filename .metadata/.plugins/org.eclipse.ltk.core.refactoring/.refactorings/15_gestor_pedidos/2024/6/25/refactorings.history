@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;15_gestor_pedidos/src/main/java/service/servicioProducto.java&apos; to &apos;ServicioProducto.java&apos;" description="Rename resource &apos;servicioProducto.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/service/servicioProducto.java" name="ServicioProducto.java" stamp="1718953925008" updateReferences="true"/>
+</session>

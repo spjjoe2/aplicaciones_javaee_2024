@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;20_contador_global_listener/src/main/java/listener&apos; to &apos;listeners&apos;" description="Rename resource &apos;listener&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/listener" name="listeners" stamp="1719221293744" updateReferences="true"/>
+</session>

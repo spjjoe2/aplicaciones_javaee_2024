@@ -1,0 +1,17 @@
+1720519790295	Delete element
+1720520201580	Rename type 'LibrosDao'
+1720520213461	Rename type 'TemasDao'
+1720520234753	Rename type 'ClientesDao'
+1720520425372	Extract interface 'TemasDao'
+1720520445516	Extract interface 'ClientesDao'
+1720520662803	Extract interface 'LibrosDao'
+1720521850595	Extract interface 'LibrosServiceImpl'
+1720522042580	Delete element
+1720522094198	Rename type 'LibrosService'
+1720522111952	Extract interface 'LibrosService'
+1720526075920	Copy file
+1720526085048	Delete element
+1720526349213	Move 'altaCliente.jsp' to 'webapp'
+1720526352822	Move 'login.html' to 'webapp'
+1720600847594	Rename resource 'altaCliente.jsp'
+1720600882622	Rename resource 'registro.jsp'

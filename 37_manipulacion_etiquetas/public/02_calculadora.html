@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	Numero 1:<input type="text" id="num1"><br>
+	Numero 2:<input type="text" id="num2"><br>
+	<input type="button" value="sumar" onclick="sumar();">
+	<input type="button" value="restar" onclick="restar();">
+	<input type="button" value="multiplicar" onclick="multiplicar();">
+	<input type="button" value="dividir" onclick="dividir();">
+	
+	<p id="respuesta">
+	</p>
+	 
+	<script	>
+ 
+	function sumar(){
+		// mediante la propiedad value se obteine el valor escrito en su interior
+		//alert("Bienvenido/a " + obj.value);
+		var n1=parseInt(document.getElementById("num1").value);
+	 	var n2=parseInt(document.getElementById("num2").value);
+		var resp=document.getElementById("respuesta");
+		 
+		resp.innerHTML="<br>La suma es  "+ (n1+n2 )+"</br>";
+		resetear();
+	}
+	function restar(){ 
+		// mediante la propiedad value se obteine el valor escrito en su interior
+		//alert("Bienvenido/a " + obj.value);
+		var n1=parseInt(document.getElementById("num1").value);
+	 	var n2=parseInt(document.getElementById("num2").value);
+		document.getElementById("respuesta").innerHTML="<br>La suma es  "+ (n1-n2)+"</br>";
+		resetear();
+	}
+	function multiplicar(){ 
+		// mediante la propiedad value se obteine el valor escrito en su interior
+		//alert("Bienvenido/a " + obj.value);
+		var n1=parseInt(document.getElementById("num1").value);
+	 	var n2=parseInt(document.getElementById("num2").value);
+		 document.getElementById("respuesta").innerHTML="<br>La suma es  "+ (n1*n2)+"</br>";;
+		 resetear();	 
+	}
+	function dividir(){ 
+		// mediante la propiedad value se obteine el valor escrito en su interior
+		//alert("Bienvenido/a " + obj.value);
+		var n1=parseInt(document.getElementById("num1").value);
+	 	var n2=parseInt(document.getElementById("num2").value);
+		 document.getElementById("respuesta").innerHTML="<br>La suma es  "+ (n1/n2)+"</br>";;
+		resetear();
+	}	
+	function resetear(){
+		document.getElementById("n1").value="";
+		document.getElementById("n2").value="";
+		document.getElementById("n1").focus();
+	}
+	</script>
+
+</body>
+</html>

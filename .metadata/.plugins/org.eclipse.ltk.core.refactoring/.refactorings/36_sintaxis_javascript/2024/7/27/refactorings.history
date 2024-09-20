@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;36_sintaxis_javascript/public/03_swith.html&apos; to &apos;03_switch.html&apos;" description="Rename resource &apos;03_swith.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="public/03_swith.html" name="03_switch.html" stamp="1719828404957" updateReferences="true"/>
+</session>

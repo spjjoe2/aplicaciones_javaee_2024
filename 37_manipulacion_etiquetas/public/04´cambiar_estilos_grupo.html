@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+    <p>Parrafo uno</p> 
+    <p>Parrafo dos</p>
+    <p>Parrafo tres</p>
+    <br>
+    <input type="button" value="Poner negrita" onclick="negrita();">
+    <script>
+    function negrita(){
+        var parrafos =document.getElementsByTagName("p");
+        for(let p of parrafos){
+            p.style.fontWeight="Bold";
+        }
+
+    }
+    </script>
+</body>
+</html>

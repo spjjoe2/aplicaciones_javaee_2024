@@ -1,0 +1,91 @@
+
+jun 25, 2024 10:17:00.04 NEW SESSION
+jun 25, 2024 10:17:00.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 10:19:02.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 10:20:06.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 10:22:51.26 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 10:56:00.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 10:56:59.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 10:57:21.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 11:04:22.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 11:07:08.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 11:12:44.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 25, 2024 13:43:03.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+jun 26, 2024 11:10:45.96 NEW SESSION
+jun 26, 2024 11:10:45.97 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 11:11:18.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 11:11:54.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 11:13:52.83 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 11:31:02.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 11:31:25.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:17:21.44 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:18:03.96 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:18:29.18 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:18:58.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:20:57.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:21:15.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 26, 2024 12:51:37.85 [67440:15368:0626/125137.850:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+jun 27, 2024 09:21:42.21 NEW SESSION
+jun 27, 2024 09:21:42.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 27, 2024 10:14:51.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 27, 2024 10:16:07.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 27, 2024 10:16:29.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 27, 2024 10:19:33.68 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 27, 2024 10:23:03.10 Created TensorFlow Lite XNNPACK delegate for CPU.
+jun 27, 2024 10:50:55.49 [18892:29184:0627/105055.491:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+jul 01, 2024 13:57:32.55 NEW SESSION
+jul 01, 2024 13:57:32.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+jul 02, 2024 09:27:44.05 NEW SESSION
+jul 02, 2024 09:27:44.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 12:03:35.71 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 12:35:50.93 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:01:06.54 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:04:10.33 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:11:56.28 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:12:26.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:17:27.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:37:52.21 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 02, 2024 13:39:04.55 [60812:50928:0702/133904.549:ERROR:device_event_log_impl.cc(196)] [13:39:04.549] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+jul 02, 2024 13:39:04.55 [60812:50928:0702/133904.552:ERROR:device_event_log_impl.cc(196)] [13:39:04.552] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
+
+jul 03, 2024 10:02:30.11 NEW SESSION
+jul 03, 2024 10:02:30.12 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 03, 2024 10:40:10.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 03, 2024 11:24:38.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 03, 2024 12:09:30.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 03, 2024 12:19:44.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+jul 04, 2024 09:07:06.16 NEW SESSION
+jul 04, 2024 09:07:06.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 04, 2024 09:57:32.88 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 04, 2024 10:00:27.15 [7064:3584:0704/100027.151:ERROR:cert_verify_proc_builtin.cc(1051)] CertVerifyProcBuiltin for cs.axis-marketplace.com failed:
+jul 04, 2024 10:00:27.15 ----- Certificate i=0 (CN=*.axis-marketplace.com) -----
+jul 04, 2024 10:00:27.15 ERROR: Time is after notAfter
+jul 04, 2024 10:00:27.15 
+jul 04, 2024 10:00:27.15 
+jul 04, 2024 10:59:31.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 04, 2024 12:32:40.07 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 04, 2024 13:00:05.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 04, 2024 13:09:42.03 [2268:5144:0704/130942.037:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+
+jul 05, 2024 11:29:56.43 NEW SESSION
+jul 05, 2024 11:29:56.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+jul 05, 2024 12:25:06.41 NEW SESSION
+jul 05, 2024 12:25:06.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 05, 2024 12:25:07.18 [7500:6076:0705/122507.188:ERROR:extension_registrar.cc(539)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
+jul 05, 2024 13:06:01.67 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 05, 2024 13:14:52.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+jul 08, 2024 10:55:36.26 NEW SESSION
+jul 08, 2024 10:55:36.27 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 08, 2024 13:13:04.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 08, 2024 13:13:44.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+
+jul 09, 2024 10:02:13.94 NEW SESSION
+jul 09, 2024 10:02:13.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+jul 09, 2024 10:19:11.86 [3800:7996:0709/101911.868:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost

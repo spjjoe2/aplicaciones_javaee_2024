@@ -1,0 +1,37 @@
+package servlets;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.List;
+
+import com.google.gson.Gson;
+
+import jakarta.inject.Inject;
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+import model.Resultado;
+import service.BuscadorService;
+
+@WebServlet("/BuscarResultadosAction")
+public class BuscarResultadosAction extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	@Inject
+	BuscadorService  service;
+	
+	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+		List<Resultado> resultados=service.resultadosPorTematica(request.getParameter("tematica"));
+		 
+		// Hay que entregar la lista al cli directamente en formato json
+		Gson gson = new Gson();
+		try(PrintWriter out =response.getWriter()){
+			response.setContentType("application/json");
+			out.println(gson.toJson(resultados));
+		}
+	}
+
+}
